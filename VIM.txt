@@ -1,25 +1,25 @@
-﻿____________________
-| Utilizando o Vim |
---------------------
+﻿		____________________
+		| Utilizando o Vim |
+		--------------------
 
 
-Para editar arquivos no terminal do Git é preciso usar o vi ou vim, digite vi ou vim e o nome do arquivo (ex $vi Teste.txt)
+Para editar arquivos no terminal do Git é preciso usar o vim (ou vi), digite vi ou vim e o nome do arquivo (ex $vi Teste.txt)
 
-Caso não exista um arquivo com esse nome ele será criado, caso exsita o editor VIM abrirá o arquivo
+Caso não exista um arquivo com esse nome ele será criado, caso exista o editor VIM abrirá o arquivo
 
-Para edita-lo aperte i e assim você poderá editar o documento
-
-Depois de terminado aperte esc e dpois digite :wq (O w é utilizado para salvar as alterações e o q é utilizado para sair)
+Para edita-lo aperte i e assim você poderá editar o documento.
+Depois de terminado aperte esc e depois digite :wq (O w é utilizado para salvar as alterações e o q é utilizado para sair)
 
 
 Para navegar no documento fora do modo de inserção utiliza-se:
 
-H - Esquerda
 
-L - Direita
+	H - Esquerda
 
-K- - Cima
+	L - Direita
 
-J - Baixo
+	K- - Cima
+
+	J - Baixo
 
 

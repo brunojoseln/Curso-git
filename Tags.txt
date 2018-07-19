@@ -1,0 +1,12 @@
+		________
+		| Tags |
+		--------
+
+As tags são utilizadas para versionamento, como por exemplo a primeira versão do programa foi concluida:
+
+	 Tag com anotação   Versão    	   Mensagem
+		 |            |		     |
+		 V            V        	     V
+	git tag -a          1.0.0    -m "Projeto funcionando com alguns bugs"
+
+As tags facilitam a localização de versões anteriores importantes
