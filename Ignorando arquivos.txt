@@ -1,0 +1,18 @@
+			_____________
+			| Gitignore |
+			-------------
+Usanmos o Gitignore quando não queremos fazer o commit de um arquivo especifico
+	
+	vim .gitignore - Cria o arquivo .gitignore e o abre no VIM
+
+Agora dentro do arquivo digitar o nome do(s) arquivo(s) que sera(o) ignorados 
+ex:
+	teste.txt
+	backup.sql
+
+Caso queira ignorar todos os arquivos de determinada extensão usando o *
+ex:
+	*.json
+	*.txt
+
+Todos os arquivos que começam com . são ocultos
