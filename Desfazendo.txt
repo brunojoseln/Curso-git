@@ -1,0 +1,18 @@
+_____________
+| Desfazendo |
+-------------
+
+Desfazendo alterações no git:
+
+git checkout arq.txt - Apaga as alterações de um arquivo não commitado
+git reset HEAD arq.txt - Tira o arquivo da lista de commit
+
+Reset:
+
+Soft - Desfaz o commit e devolve o arquivo pro staged pronto para ser commitado
+Mixed - Desfaz o commit e volta os arquivos pro modified 
+Hard - Desfaz o commit e todas as alterações do commit
+(Colocar sempre a Tag do commit anterior)
+
+ex: git reset --soft 203c2ce514df8522d873951926bb1c4f8ee8f3fe
+
