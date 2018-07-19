@@ -1,0 +1,23 @@
+		_________
+		| Branch |
+		---------
+
+		O que é e como funciona:
+
+	Branch é um ponteiro móvel que leva a um commit
+	Toda vez que se realiza um commit é gerado uma hash, pra cada hash é tirada uma snapshot
+	branches apontam para commits	
+
+
+		Vantagens:
+	
+	Multiplas pessoas podem trabalhar em diferentes branches
+	Pode-se modificar sem alterar o local principal
+	É possivel fazer download das versões antigas do seus códigos
+
+		Comandos:
+
+	git chechout -b nomebranch - Cria um novo branch
+	git branch - Lista os branches
+	git checkout nomebranch - Altera entre branches existentes
+	git branch -D nomebranch - Deleta o branch  
