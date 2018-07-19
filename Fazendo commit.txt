@@ -1,0 +1,7 @@
+______________________________________
+| Realizando commit de seus arquivos |
+--------------------------------------
+
+
+$git status - Mostra o status do repositóro (arquivos listados e não listados)
+$git commit - comita o aqruivo
