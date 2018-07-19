@@ -11,3 +11,6 @@ git shortlog - Exibe em ordem alfabética autores, quantos coommits foram realiza
 git shortlog -sn - Exibe apenas quantidade de commits e o nome do autor do commit
 git log --graph - Exibe em forma grafica o que está acontecendo com os branches e as suas versões
 git show TAG - Exibe mais informações sobre o commit
+
+git diff - Mostra a modifição que ocorreu no arquivo (utilizado antes do commit) Utilizado para revisar
+git diff --name-only - Mostra apenas os nomes dos arquivos modificados
