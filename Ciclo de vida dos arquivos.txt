@@ -4,9 +4,9 @@ ________________________________________
 
 
 
-Git separa os arquivos em 4 status
+Git separa os arquivos em 4 status:
 
-Untracked (Não marcado) - Arquivo acabou de ser aducionado no repositório e não foi visualizado pelo Git
+Untracked (Não marcado) - Arquivo acabou de ser adicionado no repositório e não foi visualizado pelo Git
 Unmodified (Não modificado) - Arquivo que existe no Git e que não ocorreu nenhuma modificação
 Modified (Modificado) - Arquivo que sofreu modificação
-Staged () - Arquivo - Arquivo que sera comitado apos o comando commit
+Staged () - Arquivo - Arquivo que será comitado após o comando commit

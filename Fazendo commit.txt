@@ -4,6 +4,9 @@ ______________________________________
 
 
 git status - Mostra o status do repositóro (arquivos listados e não listados)
+
 git add arquivo - Adiciona arquivos no commit (caso o nome do arquivo tenha espaços em branco
 colocar aspas ex: git add "Arquivo 1") 
+
 git commit -m "mensagem"  - comita o arquivo e insere uma mensagem no commit
+git commit -a = commita todos os arquivos
