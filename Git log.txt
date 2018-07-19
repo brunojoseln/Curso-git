@@ -1,0 +1,13 @@
+___________
+| Git log |
+-----------
+
+Comandos Git log:
+
+git log - Mostra o histórico do repositório
+git log --decorate - Mostra mais informações sobre o respositório
+git log --author"joao" - Filtra apenas os commits realizados pelo joao
+git shortlog - Exibe em ordem alfabética autores, quantos coommits foram realizados e quais foram
+git shortlog -sn - Exibe apenas quantidade de commits e o nome do autor do commit
+git log --graph - Exibe em forma grafica o que está acontecendo com os branches e as suas versões
+git show TAG - Exibe mais informações sobre o commit
